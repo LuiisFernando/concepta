@@ -1,3 +1,10 @@
+# run 
+
+npm i
+sails lift
+
+make a post to localhost:1337/api/concepta
+
 # concepta
 
 a [Sails v1](https://sailsjs.com) application
@@ -11,10 +18,6 @@ a [Sails v1](https://sailsjs.com) application
 + [Community support options](https://sailsjs.com/support)
 + [Professional / enterprise options](https://sailsjs.com/enterprise)
 
-
-### Version info
-
-This app was originally generated on Thu Apr 04 2019 13:51:29 GMT-0300 (Hora oficial do Brasil) using Sails v1.1.0.
 
 <!-- Internally, Sails used [`sails-generate@1.16.6`](https://github.com/balderdashy/sails-generate/tree/v1.16.6/lib/core-generators/new). -->
 
